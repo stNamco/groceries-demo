@@ -17,7 +17,7 @@ Widget buildCoolButtonCase(BuildContext context) {
   return CoolButton(
     content: context.knobs.string(
       label: 'Content',
-      initialValue: 'Click me',
+      initialValue: 'Click me2',
       maxLines: 2
     ),
   );
