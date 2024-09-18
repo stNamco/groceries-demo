@@ -22,7 +22,7 @@ class CoolButton extends StatelessWidget {
         horizontal: AppTheme.of(context).spacing.l,
       ),
       decoration: BoxDecoration(
-        color: Colors.blue,
+        color: Colors.green,
         borderRadius: BorderRadius.circular(
           AppTheme.of(context).radius.full,
         ),
